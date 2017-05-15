@@ -31,5 +31,5 @@ print("명령줄 인수 체크하기 !!")
 # sys.argv변수는 문자열 리스트이다. 명령줄 인수들을 담고 있는 리스트이다.
 #for arg in sys.argv:
 #	print(arg)
-
+#
 print("파이썬의 sys.path변수:", sys.path)

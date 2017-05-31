@@ -1,0 +1,4 @@
+npm init --> 초기화 : package.json파일이 생성됨
+npm install underscore 
+npm install uglify-js -g : 전역으로 설치시 옵션
+npm install underscore --save : save옵션을 주면 dependency 처리가 설정됨 pacakage.json파일에

@@ -1,0 +1,12 @@
+/* 한글상의 문제로 인해 실행이 안될 경우 */
+conda config --add channels conda-canary
+conda update conda
+
+conda create -n orPython
+activate orPython
+deactivate
+jupyter notebook
+
+conda install numpy
+conda install jupyter
+conda install matlotlib
